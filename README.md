@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
+<h6>Luciana Souza Felix</h6>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
